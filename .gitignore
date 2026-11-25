@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+.env
+
+# Upstream benchmark (fetched by setup_libero.sh)
+LIBERO/
+
+# Run outputs
+libero_results/
+rollouts/
+logs/
